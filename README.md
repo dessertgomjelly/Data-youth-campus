@@ -12,7 +12,7 @@
 
 ## [주요 기능]
 - ### 단계별 기능
-  - 1단계 : 군집화를 통한 상권 입지 선정
+  - 1단계 : 군집화를 통한 상권 특성에 따른 입지 선정
   - 2단계 : 폐업률 예측 모델을 통한 생존전략 컨설팅
   - 3단계 : 매출 예측 모델을 통한 마케팅 타겟 컨설팅
     
@@ -25,7 +25,8 @@
 
 - ### 어도비 xd를 통한 컨설팅 시나리오 구성
 
-<img width="700" alt="어도비xd" src="https://github.com/dessertgomjelly/Data-youth-campus/assets/127851446/f093a922-75cf-41c0-9ced-a0195dd5419b">
+<img width="800" alt="어도비xd" src="https://github.com/dessertgomjelly/Data-youth-campus/assets/127851446/20fdaaa5-39fb-45b9-a482-b98ee142a660">
+
 
   - https://xd.adobe.com/view/5738df5a-27a5-4ef2-8b12-f71b1987e799-026b/?fullscreen
 
@@ -82,18 +83,29 @@
 - #### 클러스터링
     - 2-1 클러스터링(업종).ipynb
     - 업종 10개를 선정하여, 주성분 분석과 Elbow Method를 통해 업종에 따른 군집화
- 
+ <img width="700" alt="테블로 시각화" src="https://github.com/dessertgomjelly/Data-youth-campus/assets/127851446/c879d81b-7082-4ecb-96e2-5d7af943015f">
+<br>
+<br>
+<br>
 <br>
 
 - #### 예측 모델 (폐업률)
   - 로지스틱, 랜덤포레스트, XG Boost, 의사결정 나무 4개의 모델 
-  -  각 모델마다 기본모델, 그리드 서치, 컷오프 방법 중 가장 적절한 모델링 기법 선택
+  -  각 모델마다 기본모델, 그리드 서치, 컷오프 방법 등을 이용해 하이퍼파라미터 조정
+  -  군집별 평가지표를 통해 최적의 모델 선정
+  -  XGBoost의 성능 지표가 높지만, 다른 데이터에 대해 일부 변수의 중요도가 0이 되는 과적합의 가능성을 고려하여 랜덤 포레스트 모델로 최종 선정
+<img width="700" alt="폐업률 모델" src="https://github.com/dessertgomjelly/Data-youth-campus/assets/127851446/98803969-37d6-4b50-ab8e-9c20f9216fc1">
 
+<br>
+<br>
+<br>
 <br>
 
 - #### 예측 모델 (주중매출, 주말매출)
     - 로지스틱, 랜덤포레스트, XG Boost, 의사결정 나무 4개의 모델 
     - 그리드 서치를 통한 모델링 진행 후 4개의 모델 중 평가 지표를 통한 최적의 모델 선정
+<img width="700" alt="주중 매출 모델" src="https://github.com/dessertgomjelly/Data-youth-campus/assets/127851446/138b1264-ccee-46a8-9069-10da7f87fc77">
+<img width="700" alt="주말 매출 모델" src="https://github.com/dessertgomjelly/Data-youth-campus/assets/127851446/66d6b21d-9815-4b1d-b388-135c44837d9d">
 
 ##### 
 
