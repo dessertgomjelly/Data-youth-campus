@@ -2,16 +2,14 @@
 서울시 소상공인 상권 군집화와 폐업 예측을 통한 창업비서 모델 개발
 <br>
 <br>
-<br>
-<br>
+
 
 ## [프로젝트 결과]
 - [상명대학교 프로젝트 평가 우수상](https://github.com/dessertgomjelly/Data-youth-campus/blob/main/Awards/awards1.jpeg)
 - [한국정책학회 빅데이터 분석 분야 프로젝트 평가 우수상](https://github.com/dessertgomjelly/Data-youth-campus/blob/main/Awards/awards2.jpeg)
 <br>
 <br>
-<br>
-<br>
+
 
 ## [배경]
 - ### 개발 목적 및 필요성
@@ -20,8 +18,7 @@
 
 <br>
 <br>
-<br>
-<br>
+
 
 ## [주요 기능]
 - ### 단계별 기능
@@ -33,8 +30,7 @@
 
 <br>
 <br>
-<br>
-<br>
+
 
 - ### 어도비 xd를 통한 컨설팅 시나리오 구성
 
@@ -52,8 +48,7 @@
 
 <br>
 <br>
-<br>
-<br>
+
 
 ## [데이터 수집]
 - ### 공공 데이터 포털
@@ -61,8 +56,6 @@
 - ### 서울시 상권분석 서비스
     - 2018-2021년도 서울시 점포 생존율, 가구 소득분위, 지역 임대시세에 대한 공공 데이터
 
-<br>
-<br>
 <br>
 <br>
 
@@ -93,8 +86,7 @@
 
 <br>
 <br>
-<br>
-<br>
+
 
 
 ## [모델 선정]
@@ -102,8 +94,6 @@
     - 2-1 클러스터링(업종).ipynb
     - 업종 10개를 선정하여, 주성분 분석과 Elbow Method를 통해 업종에 따른 군집화
  <img width="700" alt="테블로 시각화" src="https://github.com/dessertgomjelly/Data-youth-campus/assets/127851446/c879d81b-7082-4ecb-96e2-5d7af943015f">
-<br>
-<br>
 <br>
 <br>
 
@@ -116,8 +106,7 @@
 
 <br>
 <br>
-<br>
-<br>
+
 
 - #### 예측 모델 (주중매출, 주말매출)
     - 로지스틱, 랜덤포레스트, XG Boost, 의사결정 나무 4개의 모델 
