@@ -32,7 +32,7 @@
 <img width="800" alt="어도비xd" src="https://github.com/dessertgomjelly/Data-youth-campus/assets/127851446/20fdaaa5-39fb-45b9-a482-b98ee142a660">
 
 
-  - https://xd.adobe.com/view/5738df5a-27a5-4ef2-8b12-f71b1987e799-026b/?fullscreen
+  - [해당 링크를 클릭하면 창업 비서 홈페이지로 연결 됩니다.](https://xd.adobe.com/view/5738df5a-27a5-4ef2-8b12-f71b1987e799-026b/?fullscreen)
 
 
 <br>
