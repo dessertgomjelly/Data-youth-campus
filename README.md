@@ -20,9 +20,9 @@
 <br>
 
 
-## [프로젝트 결과]
-- [상명대학교 프로젝트 평가 우수상 🏆](https://github.com/dessertgomjelly/Data-youth-campus/blob/main/Awards/awards1.jpeg)
-- [한국정책학회 빅데이터 분석 분야 프로젝트 평가 우수상 🏆](https://github.com/dessertgomjelly/Data-youth-campus/blob/main/Awards/awards2.jpeg)
+## [수상 내역]
+- [🏆 상명대학교 프로젝트 평가 우수상](https://github.com/dessertgomjelly/Data-youth-campus/blob/main/Awards/awards1.jpeg)
+- [🏆 한국정책학회 빅데이터 분석 분야 프로젝트 평가 우수상](https://github.com/dessertgomjelly/Data-youth-campus/blob/main/Awards/awards2.jpeg)
 <br>
 
 
